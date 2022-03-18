@@ -3,7 +3,7 @@ import core
 MainSetka=core.OneCore(20)
 
 MainSetka.AddPlayer([core.Player("Tom",True,"X",MainSetka.Step),core.Player("Jane",False,"Y",MainSetka.Step)])
-
+p=10
 MainSetka.initArr()
 MainSetka.ToConsoleArray()
  
